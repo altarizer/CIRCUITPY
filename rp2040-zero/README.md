@@ -6,5 +6,12 @@
 - OLED(IIC/SSD1306), BUTTON, NEOPIXEL
 - Wirring Diagram
 
-![Wiring diagram](https://github.com/altarizer/CIRCUITPY/blob/main/rp2040-zero/Wiring%20diagram.png?raw=true)
+![Wiring diagram](https://github.com/altarizer/CIRCUITPY/blob/main/rp2040-zero/wiring-diagrams/code.py.png?raw=true)
 
+
+#### 5050-water-flow_1.py 
+
+- 5050 RGB Full-color LED Water Flow Light Module
+- Wirring Diagram
+
+![Wiring diagram](https://github.com/altarizer/CIRCUITPY/blob/main/rp2040-zero/wiring-diagrams/5050-water-flow_1.py?raw=true)
