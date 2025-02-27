@@ -14,4 +14,4 @@
 - 5050 RGB Full-color LED Water Flow Light Module
 - Wirring Diagram
 
-![Wiring diagram](https://github.com/altarizer/CIRCUITPY/blob/main/rp2040-zero/wiring-diagrams/5050-water-flow_1.py?raw=true)
+![Wiring diagram](https://github.com/altarizer/CIRCUITPY/blob/main/rp2040-zero/wiring-diagrams/5050-water-flow_1.py.png?raw=true)
